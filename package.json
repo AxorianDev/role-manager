@@ -1,0 +1,10 @@
+{
+    "name": "role-manager",
+    "version": "1.0.0",
+    "description": "This is the bot that handles roles within the Moonglow guild on Discord.",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.16.4",
+      "discord.js": "^11.5.0"
+    }
+  }
